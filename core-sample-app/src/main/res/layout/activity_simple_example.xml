@@ -12,7 +12,7 @@
         android:layout_width="match_parent"
         android:layout_height="wrap_content"
         app:videoId="S0Q4gqBUs7c"
-        app:autoPlay="true"
+        app:autoPlayVideo="true"
         app:showFullScreenButton="false" />
 
 </LinearLayout>

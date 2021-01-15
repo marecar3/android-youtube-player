@@ -9,7 +9,7 @@
     <public name="YouTubePlayerView_useWebUi" type="attr" />
     <public name="YouTubePlayerView_enableLiveVideoUi" type="attr" />
     <public name="YouTubePlayerView_videoId" type="attr" />
-    <public name="YouTubePlayerView_autoPlay" type="attr" />
+    <public name="YouTubePlayerView_autoPlayVideo" type="attr" />
     <public name="YouTubePlayerView_handleNetworkEvents" type="attr" />
     <public name="YouTubePlayerView_showYouTubeButton" type="attr" />
     <public name="YouTubePlayerView_showFullScreenButton" type="attr" />

@@ -10,7 +10,7 @@
         <attr name="useWebUi" format="boolean" />
         <attr name="enableLiveVideoUi" format="boolean" />
         <attr name="videoId" format="string" />
-        <attr name="autoPlay" format="boolean" />
+        <attr name="autoPlayVideo" format="boolean" />
         <attr name="handleNetworkEvents" format="boolean" />
         <attr name="showYouTubeButton" format="boolean" />
         <attr name="showFullScreenButton" format="boolean" />

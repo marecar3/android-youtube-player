@@ -159,7 +159,7 @@ In order to start using the player you need to add a [YouTubePlayerView](#youtub
         android:layout_height="wrap_content"
         
         app:videoId="S0Q4gqBUs7c"
-        app:autoPlay="true"
+        app:autoPlayVideo="true"
         app:showFullScreenButton="false" />
 </LinearLayout>
 ```
@@ -227,7 +227,7 @@ If the height of the View is set to `wrap_content`, the View will automatically 
 If you add the view to your XML layout you have the possibility to set a few custom attributes, to customize the view's look and behavior. Everything can also be done programmatically.
 
 - [videoId](#videoId)
-- [autoPlay](#autoPlay)
+- [autoPlayVideo](#autoPlayVideo)
 - [enableAutomaticInitialization](#enableAutomaticInitialization)
 - [handleNetworkEvents](#handleNetworkEvents)
 - [useWebUi](#useWebUi)
